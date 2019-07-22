@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pierrcepack",
+  "name": "Pierrce Pack",
+  "description": "Pierrce Pack mod for Forge 1.12.2!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "pierrcepack.artifice.gg",
+  "updateUrl": "",
+  "authorList": ["Pierrce"],
+  "credits": "To Demmies, for inspiring me and getting me to play this game again.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

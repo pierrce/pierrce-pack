@@ -1,0 +1,11 @@
+{
+  "edenmusic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "pierrcepack:edenmusic",
+        "stream": true
+      }
+    ]
+  }
+}
